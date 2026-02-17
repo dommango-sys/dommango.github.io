@@ -1,7 +1,7 @@
 ---
 title: "Senior Vice President, Transformation Senior Lead"
 company: "Citi"
-logo: "/logos/citi.svg"
+logo: "/logos/citi.png"
 start_date: 2021-09-07
 end_date: present
 location: "New York, NY"

@@ -1,7 +1,7 @@
 ---
 title: "Control Intern, Corporate Finance"
 company: "Viacom, Inc."
-logo: "/logos/viacom.svg"
+logo: "/logos/viacom.png"
 start_date: 2007-06
 end_date: 2007-08
 location: "New York, NY"
