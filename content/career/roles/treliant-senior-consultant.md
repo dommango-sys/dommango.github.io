@@ -1,6 +1,7 @@
 ---
 title: "Senior Consultant, Wealth & Asset Management Advisory"
 company: "Treliant LLC"
+logo: "/logos/treliant.svg"
 start_date: 2018-11-24
 end_date: 2019-04-23
 location: "New York, NY"

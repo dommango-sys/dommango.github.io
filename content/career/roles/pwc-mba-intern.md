@@ -1,6 +1,7 @@
 ---
 title: "MBA Intern, Capital Markets Advisory"
 company: "PwC / Strategy&"
+logo: "/logos/pwc.svg"
 start_date: 2014-06-02
 end_date: 2014-08-15
 location: "New York, NY"

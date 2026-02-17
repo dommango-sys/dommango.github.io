@@ -1,6 +1,7 @@
 ---
 title: "Sales Intern"
 company: "Bear, Stearns & Co. Inc."
+logo: "/logos/bear-stearns.svg"
 start_date: 2006-06
 end_date: 2006-08
 location: "New York, NY"
